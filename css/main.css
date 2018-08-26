@@ -1,0 +1,39 @@
+.scoreboard {
+  background: skyblue;
+  height: 95vh;
+  padding: 10px;
+  margin-left: 0px !important;
+}
+.board {
+  background: #eff;
+  padding: 20px;
+  height: 95vh;
+  margin-right: 0px !important;
+}
+
+.left {
+  margin-right: 0px !important;
+  padding: 0px !important;
+}
+
+.right {
+  margin-left: 0px !important;
+  padding: 0px !important;
+}
+
+.container {
+  margin: 10px auto;
+  position: fixed;
+}
+
+.canvas {
+  padding: 10px;
+  width: 90%;
+  height: 90%;
+}
+
+.img {
+  height: 35px !important;
+  width: 35px !important;
+  margin: 10px;
+}
