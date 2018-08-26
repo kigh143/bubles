@@ -3,4 +3,6 @@
 # bubles
 A simple html5 canvas example inspired by hackerbay. 
 
-Greate art-piece of bubbles in motion with beautiful colors.   
+Greate art-piece of bubbles in motion with beautiful colors. these bubbles increase size on mousemove event. they increase size to radius of 40 if on near proximity with the mouse ( 50 pixels ). 
+
+I would like to turn this into a game any good ideas are welcome thank you. 
