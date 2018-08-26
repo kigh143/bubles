@@ -1,6 +1,5 @@
-Inline-style: 
-![alt text](https://github.com/kigh143/bubles/blob/master/images/pic.png "Logo Title Text 1")
 
+![alt text](https://github.com/kigh143/bubles/blob/master/images/pic.png "Logo Title Text 1")
 # bubles
 A simple html5 canvas example inspired by hackerbay. 
 
